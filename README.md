@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 <div align="center">
     <a href="https://github.com/megabyte6/">
-        <img src="https://github-readme-stats.vercel.app/api?username=megabyte6&theme=nord&hide_border=true&hide_title=true&show_icons=true&include_all_commits=false" />
+        <img src="https://github-readme-stats.vercel.app/api?username=megabyte6&theme=react&hide_border=true&hide_title=true&show_icons=true&include_all_commits=false&bg_color=00000000" />
     </a>
     <a href="https://github.com/megabyte6/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megabyte6&theme=nord&hide_border=true&layout=compact" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megabyte6&theme=react&hide_border=true&layout=compact&bg_color=00000000" />
     </a>
 </div>
