@@ -15,10 +15,18 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <a href="https://github.com/megabyte6/">
-        <img src="https://github-readme-stats.vercel.app/api?username=megabyte6&theme=react&hide_border=true&hide_title=true&show_icons=true&include_all_commits=false" />
-    </a>
-    <a href="https://github.com/megabyte6/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megabyte6&theme=react&hide_border=true&layout=compact" />
-    </a>
+    <table>
+        <tr>
+            <td>
+                <a href="https://github.com/megabyte6/">
+                    <img src="https://github-readme-stats.vercel.app/api?username=megabyte6&theme=react&hide_border=true&hide_title=true&show_icons=true&include_all_commits=false" />
+                </a>
+            </td>
+            <td>
+                <a href="https://github.com/megabyte6/">
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megabyte6&theme=react&hide_border=true&layout=compact" />
+                </a>
+            </td>
+        </tr>
+    <table>
 </div>
