@@ -13,5 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ### Hi there 👋
 -->
-[![Stats](https://github-readme-stats.vercel.app/api?username=megabyte6&theme=react&hide_border=true&hide_title=true&show_icons=true&include_all_commits=false)](https://github.com/megabyte6/)
-[![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=megabyte6&theme=react&hide_border=true&layout=compact)](https://github.com/megabyte6?tab=repositories)
+
+<div align="center">
+    <a href="https://github.com/megabyte6/">
+        <img src="https://github-readme-stats.vercel.app/api?username=megabyte6&theme=react&hide_border=true&hide_title=true&show_icons=true&include_all_commits=false" />
+    </a>
+    <a href="https://github.com/megabyte6?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megabyte6&theme=react&hide_border=true&layout=compact" />
+    </a>
+</div>
