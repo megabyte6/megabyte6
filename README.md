@@ -14,11 +14,8 @@ Here are some ideas to get you started:
 ### Hi there 👋
 -->
 
-<div align="center">
-    <a href="https://github.com/megabyte6/">
-        <img src="https://github-readme-stats.vercel.app/api?username=megabyte6&theme=react&hide_border=true&hide_title=true&show_icons=true&include_all_commits=false" />
-    </a>
-    <a href="https://github.com/megabyte6?tab=repositories">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megabyte6&theme=react&hide_border=true&layout=compact" />
-    </a>
-</div>
+[![megabyte6's GitHub Stats Light Theme](https://github-readme-stats.vercel.app/api?username=megabyte6&hide_border=true&theme=catppuccin_latte&hide_title=true&show_icons=true)](https://github.com/megabyte6#gh-light-mode-only)
+[![Top Langs Light Theme](https://github-readme-stats.vercel.app/api/top-langs/?username=megabyte6&hide_border=true&theme=catppuccin_latte&layout=compact)](https://github.com/megabyte6?tab=repositories#gh-light-mode-only)
+
+[![megabyte6's GitHub Stats Dark Theme](https://github-readme-stats.vercel.app/api?username=megabyte6&hide_border=true&theme=react&hide_title=true&show_icons=true)](https://github.com/megabyte6#gh-dark-mode-only)
+[![Top Langs Dark Theme](https://github-readme-stats.vercel.app/api/top-langs/?username=megabyte6&hide_border=true&theme=react&layout=compact)](https://github.com/megabyte6?tab=repositories#gh-dark-mode-only)
