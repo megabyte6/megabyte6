@@ -14,11 +14,11 @@
 [![](https://github-readme-stats.vercel.app/api?username=megabyte6&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/megabyte6#gh-light-mode-only)
 [![](https://github-readme-stats.vercel.app/api?username=megabyte6&theme=react&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/megabyte6#gh-dark-mode-only)
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=megabyte6&theme=catppuccin_latte&hide_border=false)](https://github.com/megabyte6#gh-light-mode-only)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=megabyte6&theme=react&hide_border=false)](https://github.com/megabyte6#gh-dark-mode-only)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=megabyte6&theme=catppuccin_latte&hide_border=false)](https://github.com/megabyte6?tab=repositories#gh-light-mode-only)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=megabyte6&theme=react&hide_border=false)](https://github.com/megabyte6?tab=repositories#gh-dark-mode-only)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=megabyte6&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/megabyte6#gh-light-mode-only)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=megabyte6&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/megabyte6#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=megabyte6&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/megabyte6?tab=repositories#gh-light-mode-only)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=megabyte6&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/megabyte6?tab=repositories#gh-dark-mode-only)
 
 ## 🏆 GitHub Trophies
 [![](https://github-profile-trophy.vercel.app/?username=megabyte6&theme=catppuccin_latte&no-frame=false&no-bg=true&margin-w=4)](https://github.com/megabyte6#gh-light-mode-only)
@@ -28,7 +28,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-[![](https://github-contributor-stats.vercel.app/api?username=megabyte6&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true)](https://github.com/megabyte6#gh-light-mode-only)
-[![](https://github-contributor-stats.vercel.app/api?username=megabyte6&limit=5&theme=react&combine_all_yearly_contributions=true)](https://github.com/megabyte6#gh-dark-mode-only)
+[![](https://github-contributor-stats.vercel.app/api?username=megabyte6&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true)](https://github.com/megabyte6?tab=repositories#gh-light-mode-only)
+[![](https://github-contributor-stats.vercel.app/api?username=megabyte6&limit=5&theme=react&combine_all_yearly_contributions=true)](https://github.com/megabyte6?tab=repositories#gh-dark-mode-only)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
