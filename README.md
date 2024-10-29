@@ -28,6 +28,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=megabyte6&limit=5&theme=react&combine_all_yearly_contributions=true)
+[![](https://github-contributor-stats.vercel.app/api?username=megabyte6&limit=5&theme=catppuccin_latte&combine_all_yearly_contributions=true)](https://github.com/megabyte6#gh-light-mode-only)
+[![](https://github-contributor-stats.vercel.app/api?username=megabyte6&limit=5&theme=react&combine_all_yearly_contributions=true)](https://github.com/megabyte6#gh-dark-mode-only)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
