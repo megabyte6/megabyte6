@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on whatever sounds fun.
-👯 I’m looking to collaborate on anything interesting.
-🌱 I’m currently learning Rust, C++, and C#.
+🔭 Working on whatever sounds fun.
+👯 Looking to collaborate on anything interesting.
+🌱 Currently learning Rust, C++, and C#.
 💬 Ask me about anything.
 
 
